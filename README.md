@@ -39,8 +39,8 @@ Ex: `http://localhost:4200/`
 
 ## Docs
 
-[Explore the Docs](https://angular.dev)
-[Learn with Tutorials](https://angular.dev/tutorials)
-[CLI Docs](https://angular.dev/tools/cli)
-[Angular Language Service](https://angular.dev/tools/language-service)
-[Angular DevTools](https://angular.dev/tools/devtools)
+* [Explore the Docs](https://angular.dev)
+* [Learn with Tutorials](https://angular.dev/tutorials)
+* [CLI Docs](https://angular.dev/tools/cli)
+* [Angular Language Service](https://angular.dev/tools/language-service)
+* [Angular DevTools](https://angular.dev/tools/devtools)

@@ -44,3 +44,19 @@ Ex: `http://localhost:4200/`
 * [CLI Docs](https://angular.dev/tools/cli)
 * [Angular Language Service](https://angular.dev/tools/language-service)
 * [Angular DevTools](https://angular.dev/tools/devtools)
+
+## Key Features
+
+### Separation of Concerns
+
+`.html` files hold your template or layout for a component/page
+
+`.ts` holds the functionality
+
+`.css` holds the design
+
+All are very clearly separated to allow for clear separation of concerns
+
+### Angular Template Syntax
+
+In an `html` file on an input field you can change the `value` property to `[value]` to tell angular that the following is an expression

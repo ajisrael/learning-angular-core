@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Angular Core Deep Dive';
+  courseTitle = 'Angular Core Deep Dive';
 }

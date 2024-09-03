@@ -17,4 +17,8 @@ export class AppComponent {
   onLogoClicked = () => {
     console.log("Logo Clicked")
   }
+
+  onKeyUp = (newTitle: string) => {
+    this.data.title = newTitle;
+  }
 }

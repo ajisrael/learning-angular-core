@@ -204,9 +204,9 @@
           </clipPath>
         </defs>
       </svg>
-      <h1>Hello, {{ data.title }}</h1>
+      <h1>Hi, {{ data.title }}</h1>
       <p>Congratulations! Your app is running. 🎉</p>
-      <input class="demo" [value]="data.title">
+      <input class="demo" (keyup)="onKeyUp(titleInput.value)" [value]="data.title" #titleInput>
     </div>
   </div>
 </main>
